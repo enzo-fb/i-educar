@@ -48,7 +48,7 @@ cp .env.example .env
 Faça o build das imagens Docker utilizadas no projeto e inicie os containers da aplicação (pode levar alguns minutos):
 
 ```bash
-docker compose up -d --build
+docker compose up -d --build 
 ```
 
 Execute o comando para fazer uma nova instalação:
